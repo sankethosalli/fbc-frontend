@@ -1,0 +1,27 @@
+Create a simple Next.js app to create a facebook campaigns using the facebook-nodejs-business-sdk
+
+Frontend
+    CSS Frameworks - Tailwind/Chakra UI/Material UI
+    The welcome page should have a form with the following fields
+        name
+        minAge
+        maxAge
+        gender
+        country(use any opensource country and city api)
+        city
+        Nice to have: Show map preview of the selected location
+
+
+Backend
+
+    The information collected in the frontend should be used to create campaigns in facebook using the facebook-nodejs-business-sdk sdk
+
+
+Helpfull Resources:
+
+    https://developers.facebook.com/docs/marketing-api/campaign-structure
+    https://developers.facebook.com/docs/marketing-apis/get-started
+
+Use sandbox account for completing the exercise:
+
+    https://developers.facebook.com/ads/blog/post/v2/2016/10/19/sandbox-ad-accounts/

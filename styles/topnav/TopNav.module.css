@@ -1,0 +1,34 @@
+.topnav__wrapper {
+  display: flex;
+  justify-content: space-between;
+
+  /* display: none; */
+  /* background-color: cornsilk; */
+  /* background-color: rgb(185, 253, 183); */
+  background-color: rgb(90, 90, 200);
+  border-bottom: 1px solid rgb(200, 200, 255);
+  padding: 2px 50px;
+}
+
+.topnav__right {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  min-width: 10vw;
+  /* display: none; */
+}
+
+.topnav__right__element {
+  padding-top: 12px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.logo {
+  width: 28px;
+}
+
+.account__icon {
+  color: blue;
+  /* background-color:blue; */
+}

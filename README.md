@@ -1,6 +1,6 @@
 # Facebook Campaign Frontend NextJS
 
-This is an attempt to build a clone of Inshorts News App, with the faith of learning ReactJS.
+This is an attempt to build a Frontend for campaigns using Facebook SDK.
 
 Find the live version at [fb-campaign.gitword.com](https://fb-campaign.gitword.com/)
 
